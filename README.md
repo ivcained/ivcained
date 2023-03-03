@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivcained - Audio Engineer, Digital Film, Electronic Music Production (SAE Institute, Singapore)
 - 👀 I’m interested in Generative Audio and Visual Art
-- 🌱 I’m currently learning Github
+- 🌱 I’m currently mastering Github
 - 💞️ I’m looking to collaborate on Music, Sound, Stem Projects
 - 📫 How to reach me ivcained@protonmail.com
 
